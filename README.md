@@ -2,7 +2,10 @@
 
 ## Overview
 
-This project creates and populates a SQLite database with blood type variant data extracted from the International Society for Blood Transfusion. It includes a set of Python scripts to load data from a CSV file into a structured database and provides functionalities to query specific data based on various criteria.
+This project creates and populates a SQLite database with blood type variant data extracted 
+from the International Society for Blood Transfusion. It includes a set of Python scripts to 
+load data from a CSV file into a structured database and provides functionalities to query 
+specific data based on various criteria.
 
 ## Project Structure
 
@@ -71,7 +74,8 @@ print(result)
 
 
 ## Note:
-This  is a software based project. I have also added "DataTest.py" file for your reference that will run the database queries as per asked in the question. Let me know if you need help. 
+This  is a software based project. I have also added "DataTest.py" file for your reference
+ that will run the database queries as per asked in the question. Let me know if you need help. 
 
 ## Solutions:
 The database consists of three tables:
